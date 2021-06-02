@@ -1,5 +1,5 @@
 # Checkers-AI-Minimax
-Checkers AI designed using minimax algorithm
+Checkers AI designed using minimax algorithm. Quite Fast and Unbeatable.
 
 # Run the game
 Run *python main.py* in your terminal to play the game.
